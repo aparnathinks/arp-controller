@@ -1,0 +1,9 @@
+./pox.py openflow.of_01 --port=6653 forwarding.l2_pairs
+netstat -lnptu
+kill -9 <pid> associated with python
+
+
+sudo mn --controller=remote --custom topology.py --topo mytopo --mac
+
+https://github.com/mininet/mininet/wiki/Introduction-to-Mininet#what
+https://github.com/mininet/openflow-tutorial/wiki
