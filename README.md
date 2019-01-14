@@ -5,7 +5,8 @@ Creating a network
 designing an ARP responder
 installing the rules to make traffic flow and deal with link failures.
 
-Dependencies:
-Mininet
-pox
+Dependencies:<br>
+Mininet <br>
+pox <br>
 openflow
+<br>
